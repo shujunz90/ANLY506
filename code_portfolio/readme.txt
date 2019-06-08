@@ -1,0 +1,1 @@
+This repo is for practicing R-related functions such as Data Import, Wrangling, Visualization, Analysis, etc..
